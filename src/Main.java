@@ -149,10 +149,6 @@ public class Main{
         Pergunta p = new Pergunta();
         Resposta r = new Resposta();
         int opc;
-        /*adm = carregaAdministrador();
-        perg = carregaPergunta();
-        resp = carregaResposta();
-        jo = carregaJogadores();*/
                            
         
         do{
