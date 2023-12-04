@@ -149,14 +149,17 @@ public class Main{
         Pergunta p = new Pergunta();
         Resposta r = new Resposta();
         int opc;
-        adm = carregaAdministrador();
+        /*adm = carregaAdministrador();
         perg = carregaPergunta();
         resp = carregaResposta();
-        jo = carregaJogadores();
+        jo = carregaJogadores();*/
                            
         
         do{
-          
+           adm = carregaAdministrador();
+           perg = carregaPergunta();
+           resp = carregaResposta();
+           jo = carregaJogadores(); 
            System.out.println("MENU:\r\n[1]Cadastrar Administrador\r\n[2]Cadastrar pergunta\r\n[3]Jogar\r\n[0]Sair");
            opc = sc.nextInt();
             
@@ -260,8 +263,9 @@ public class Main{
                           
                           for(int i=0; i<jogad.size();i++){
                             System.out.println("Vez do jogador["+(i+1)+"]: ");
-                            System.out.println(jogo.selecionarPerguntaAleatoria()); 
-                          
+
+                            System.out.println(jogo.selecionarPerguntaAleatoria());
+                            
                             System.out.println("Digite o indice da resposta correta");
                             int respEscolhida = sc.nextInt();
                               
