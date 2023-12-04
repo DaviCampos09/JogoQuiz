@@ -1,0 +1,27 @@
+Geografia#Qual a capital do Brasil?#Facil#
+Matematica#5+6x8=?#Facil#
+Ciencia#Qual eh o processo biologico pelo qual as celulas se autodestroem programaticamente, desempenhando um papel fundamental no desenvolvimento embrionario, regulação imunologica e prevencao do cancer?#Dificil#
+Ciencia#Qual eh o simbolo quimico do oxigenio?#Facil#
+Esporte#Qual eh o esporte em que os jogadores tentam acertar uma bola no buraco com o menor numero de tacadas?#Facil#
+Historia#Qual eh a religiao da antiga Grecia?#Facil#
+Esporte#Qual o Jogador com mais premios de "Bolas de Ouro" da historia do futebol?#Facil#
+Literatura#Quem escreveu o romance "Dom Casmurro"?#Media#
+Curiosidade#Qual filme ganhou o Oscar de Melhor Filme em 1994, dirigido por Steven Spielberg?#Media#
+Matematica#Qual eh o resultado da multiplicacao de 7 por 8, somado ao quadrado de 4#Media#
+Ciencia#Qual eh o elemento quimico mais denso na tabela periodica?#Dificil#
+Filosofia#Quem eh o filosofo alemao que desenvolveu a teoria da "Vontade de Potencia" e eh associado ao existencialismo?#Dificil#
+Curiosidade#Qual filme de Stanley Kubrick eh conhecido por seu estilo visual inovador, trilha sonora de musica classica e influencia na ficcao cientifica, mas tambem gerou controversia devido a seu conteudo grafico?#Dificil#
+Esporte#Qual pais ganhou a primeira Copa do Mundo de Futebol, em 1930?#Dificil#
+
+Ciencia#Qual o maior planeta do sistema solar?#Media#
+Geografia#Qual o pais mais populoso do mundo?#Facil#
+Ciencia#Qual eh a condicao medica que uma pessoa experimenta episodios recorrentes de sono excessivo durante o dia?#Dificil#
+Tecnologia#Qual o sistema operacional desenvolvido pela Apple?#Media#
+Curiosidade#Quem pintou a famosa obra "Mona Lisa"?#Facil#
+Historia#Qual foi o primeiro presidente do Brasil?#Media#
+Esporte#Qual eh o melhor time do Brasil?#Facil#
+Ciencia#Qual a condicao necessaria para formar um ser vivo?#Media#
+Curiosidade#Qual filme ganhou mais premios no Oscar?#Media#
+Ciencia#Qual eh o nome do fenomeno quantico em que particulas subatomicas estao entrelacadas, de modo que a medicao de uma afeta instantaneamente a outra, mesmo que estejam separadas por grandes distancias?#Dificil#
+
+

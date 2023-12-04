@@ -1,0 +1,25 @@
+3#1)Vicosa#2)Sao Paulo#3)Brasilia#4)Rio de Janeiro#
+2#1)58#2)53#3)88#4)83#
+3#1)Mitose#2)Meiose#3)Apoptose#4)Autofagia#
+1#1)O#2)Ox#3)Oz#4)Oxg#
+3#1)Futebol#2)Tenis#3)Golfe#4)Basquete#
+3#1)Crista#2)Judaica#3)Politeista#4)Budista#
+2#1)Pele#2)Messi#3)Maradona#4)Ronaldinho Gaucho#
+1#1)Machado de Assis#2)Jose Saramago#3)Gabriel Garcia Marquez#4)Jorge Luis Borges#
+3#1)Jurassic Park#2)E.T. - O Extraterrestre#3)A Lista de Schindler#4)Indiana Jones e a Ultima Cruzada#
+2#1) 57#2) 93#3) 77#4) 113#
+4#1)Ouro (Au)#2)Uranio (U)#3)Platina (Pt)#4)Osmio (Os)#
+2#1)Soren Kierkegaard#2) Friedrich Nietzsche#3)Jean-Paul Sartre#4)Albert Camus#
+1#1)Laranja Mecanica#2)2001: Uma Odisseia no Espaco#3)O Iluminado#4)De Olhos Bem Fechados#
+3#1)Franca#2)Argentina#3)Uruguai#4)Inglaterra#
+3#1)Netuno#2)Marte#3)Jupiter#4)Terra#
+1#1)India#2)Brasil#3)China#4)Cuba#
+2#1)Insonia#2)Narcolepsia#3)Depressao#4)Apneia do sono#
+1#1)iOS#2)Android#3)Windows#4)Linux#
+4#1)Michelangelo#2)Donatello#3)Rafael#4)Leonardo da Vinci#
+3#1)Vargas#2)Lula#3)Deodoro da Fonseca#4)Jango#
+2#1)Palmeiras#2)Flamengo#3)Corinthians#4)Cruzeiro#
+2#1)Sistema nervoso#2)Metabolismo#3)Tecidos#4)Locomocao#
+1#1)Titanic#2)Poderoso chefao#3)Minha mae e uma peca#4)Avatar#
+4#1)Telepatia#2)Efeito borboleta#3)Superposicao#4)Entrelacamento#
+
